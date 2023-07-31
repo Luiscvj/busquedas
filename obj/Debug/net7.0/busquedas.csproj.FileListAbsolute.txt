@@ -1,0 +1,15 @@
+C:\Users\luisc\Documents\C#\curso\busquedas\obj\Debug\net7.0\busquedas.csproj.AssemblyReference.cache
+C:\Users\luisc\Documents\C#\curso\busquedas\obj\Debug\net7.0\busquedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\Documents\C#\curso\busquedas\obj\Debug\net7.0\busquedas.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\C#\curso\busquedas\obj\Debug\net7.0\busquedas.AssemblyInfo.cs
+C:\Users\luisc\Documents\C#\curso\busquedas\obj\Debug\net7.0\busquedas.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\C#\curso\busquedas\bin\Debug\net7.0\busquedas.exe
+C:\Users\luisc\Documents\C#\curso\busquedas\bin\Debug\net7.0\busquedas.deps.json
+C:\Users\luisc\Documents\C#\curso\busquedas\bin\Debug\net7.0\busquedas.runtimeconfig.json
+C:\Users\luisc\Documents\C#\curso\busquedas\bin\Debug\net7.0\busquedas.dll
+C:\Users\luisc\Documents\C#\curso\busquedas\bin\Debug\net7.0\busquedas.pdb
+C:\Users\luisc\Documents\C#\curso\busquedas\obj\Debug\net7.0\busquedas.dll
+C:\Users\luisc\Documents\C#\curso\busquedas\obj\Debug\net7.0\refint\busquedas.dll
+C:\Users\luisc\Documents\C#\curso\busquedas\obj\Debug\net7.0\busquedas.pdb
+C:\Users\luisc\Documents\C#\curso\busquedas\obj\Debug\net7.0\busquedas.genruntimeconfig.cache
+C:\Users\luisc\Documents\C#\curso\busquedas\obj\Debug\net7.0\ref\busquedas.dll
